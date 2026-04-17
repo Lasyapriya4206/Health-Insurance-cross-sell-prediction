@@ -1,0 +1,2 @@
+DATA_PATH = "data/TRAIN-HEALTH INSURANCE CROSS SELL PREDICTION.csv"
+MODEL_PATH = "models/saved_model.pkl"
