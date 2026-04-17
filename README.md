@@ -10,7 +10,7 @@ This project predicts whether existing health insurance customers are likely to 
 - Deploy a user-friendly Streamlit prediction app  
 
 ## 🧠 Steps to Run
-1. Install dependencies:
+1. Install dependencies: pip install pandas numpy matplotlib seaborn scikit-learn pickle5
 2. Open Jupyter Notebook and run `full_pipeline.ipynb`  
 3. Start the Streamlit app:
 
